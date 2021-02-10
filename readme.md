@@ -8,7 +8,7 @@
 >[Python3](https://www.python.org/) 
 
 **Installation**
-> `git clone https://github.com/JM-ST/`
+> `git clone https://github.com/JM-ST/GS-socket.git`
 ---
 **Step by Step**
 
