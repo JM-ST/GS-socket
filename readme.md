@@ -14,6 +14,8 @@
 
  - Open Terminal or Command Line 2 tap
  > First tap use command `python3 socket_server.py` ---> Server side Terminal
+ 
  > Second tap use command `python3 socket_client.py` ---> Client side Terminal
+
  - You can put your keyword in Client side Terminal
  enjoy ! 
