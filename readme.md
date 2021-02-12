@@ -18,7 +18,8 @@
  > Second tap use command `python3 socket_client.py` ---> Client side Terminal
 
  - You can put your keyword in Client side Terminal
-  -- If you want to close client ---> input empty string in client terminal 
+  - If you want to close client ---> input empty string in client terminal 
+ 
  enjoy ! 
 
-
+6010450748 Supanut Tangsopha Protocol Project
