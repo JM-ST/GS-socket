@@ -5,7 +5,7 @@
  - This project is inspired by my lazy while I'm coding. So I build some tools for my lazy
 
 **Base on :**
->[Python3](https://www.python.org/) 
+>[Python3](https://www.python.org/)
 
 **Installation**
 > `git clone https://github.com/JM-ST/GS-socket.git`
@@ -18,4 +18,7 @@
  > Second tap use command `python3 socket_client.py` ---> Client side Terminal
 
  - You can put your keyword in Client side Terminal
+  -- If you want to close client ---> input empty string in client terminal 
  enjoy ! 
+
+
